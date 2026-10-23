@@ -29,9 +29,12 @@ I'm a tech enthusiast who loves exploring how systems work behind the scenes. Ri
 ### 📊 My Coding Activity
 
 <p align="center">
-  [Portfolio Repo](https://github.com/naveenz31/My-Portfolio)
-  [Python pract code Repo](https://github.com/naveenz31/codes)
-  [Core JAVA Pract Code](https://github.com/naveenz31/BESANT_NAVEEN_G)
+ 
+*   🔗 **[My Portfolio Website](https://github.com/naveenz31/My-Portfolio)** — Personal landing page showcasing my professional journey. 
+    *   *Built with:* React, TypeScript, Vite
+*   🐍 **[Python Practice Codes](https://github.com/naveenz31/codes)** — Foundational scripting exercises, mini calculators, and structural control loop implementations.
+*   ☕ **[Core Java Playground](https://github.com/naveenz31/BESANT_NAVEEN_G)** — Training ground containing object configurations, algorithms, and core language fundamentals.
+
 </p>
 
 ---
