@@ -33,14 +33,14 @@ I'm a tech enthusiast who loves exploring how systems work behind the scenes. Ri
 </p>
 
 ---
-<img src="profile img.jpg" width="180" alt="Naveen G" style="border-radius: 50%; border: 2px solid #58a6ff;"/> <br> *Naveen G*
+<img src="profile img.jpg" width="180" alt="Naveen G" style="border-radius: 50%; border: 2px solid #58a6ff;"/> <br>
 ### 📫 Hit Me Up!
 
 Feel free to reach out if you want to collaborate on a project, talk about cloud tech, or chat about fitness!
 
 | Platform | Channel | Link / Address |
 | :--- | :--- | :--- |
-| **Instagram** | 📸 Social & Fitness | [@nav_een_31](https://instagram.com) |
+| **Instagram** | 📸 Social & Fitness | [@nav_een_31](https://www.instagram.com/nav_een_31?srtk=MTRhMWYyZndqYWU1cQ==) |
 | **Work Email** | 💼 Professional Inquiries | `naveenz3112@gmail.com` |
 | **Personal Email** | ✉️ General Catch-up | `naveengaja3112@gmail.com` |
 
