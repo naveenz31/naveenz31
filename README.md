@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Naveen G
 
 <p align="center">
-  <img src="https://githubusercontent.com" width="400" alt="Luffy Waving" style="border-radius: 15px;"/>
+  <img src="Luffy smile.jpg" width="400" alt="Luffy Smiling" style="border-radius: 15px;"/>
 </p>
 
 I'm a tech enthusiast who loves exploring how systems work behind the scenes. Right now, I'm deep in the lab leveling up my skills in DevOps, systems, and cloud infrastructure, while actively hunting for an awesome engineering role to dive into. When I'm not staring at a terminal, you'll probably find me scripting content or pushing limits in the gym. 
@@ -30,7 +30,6 @@ I'm a tech enthusiast who loves exploring how systems work behind the scenes. Ri
 
 <p align="center">
   <img height="180em" src="https://vercel.app" alt="GitHub Stats" />
-  <img height="180em" src="https://vercel.app" alt="Top Languages" />
 </p>
 
 ---
