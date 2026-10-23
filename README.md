@@ -29,7 +29,9 @@ I'm a tech enthusiast who loves exploring how systems work behind the scenes. Ri
 ### 📊 My Coding Activity
 
 <p align="center">
-  <img height="180em" src="https://vercel.app" alt="GitHub Stats" />
+  <img height="180em" src="https://github.com/naveenz31/My-Portfolio" alt="Portfolio Repo" />
+  <img height="180em" src="https://github.com/naveenz31/codes" alt="Python pract code Repo" />
+  <img height="180em" src="https://github.com/naveenz31/BESANT_NAVEEN_G" alt="Core JAVA Pract Code" />
 </p>
 
 ---
